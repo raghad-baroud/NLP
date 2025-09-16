@@ -1,2 +1,8 @@
-# Sentiment Analysis for Arabic Expo Visitor Reviews: A Comparative Study from Machine Learning to Transformers  
-This project focuses on analysing the sentiment of Arabic visitors reviews. The aim is to navigate natural language processing algorithms to find the best aproach to handle dialectical arabic. 
+# Sentiment Analysis of Expo’s Visitors Reviews
+
+This project aims to contribute to the success of Expo2030 in Riyadh by evaluating the recent Expo management and measuring the visitors' satisfaction.
+
+
+
+
+

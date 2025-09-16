@@ -1,0 +1,16 @@
+numpy
+pandas
+streamlit
+emoji
+pyarabic
+nltk
+tashaphyne
+plotly
+matplotlib
+wordcloud
+scikit-learn
+arabic-reshaper
+python-bidi
+transformers
+torch
+datasets
