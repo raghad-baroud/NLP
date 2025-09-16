@@ -2,7 +2,7 @@
 
 This project focuses on analyzing the sentiment of written Arabic reviews from Expo visitors to address challenges arising in mega-event management and the complex morphology of the Arabic language.
 
-**Five Main Stages: **
+Five Main Stages: 
 
 1- Data Extraction from X-platform.
 
