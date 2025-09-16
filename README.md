@@ -5,9 +5,13 @@ This project focuses on analyzing the sentiment of written Arabic reviews from E
 Five Main Stages: 
 
 1- Data Extraction from X-platform.
+
 2- Data Cleaning and Preprocessing.
+
 3- Feature Extraction. 
+
 4- Model Training. 
+
 5- Model Evaluating. 
 
 
